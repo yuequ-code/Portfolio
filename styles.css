@@ -460,7 +460,7 @@ img {
 
 .timeline__item--left {
   padding-right: 32px;
-  text-align: right;
+  text-align: left;
 }
 
 .timeline__item--right {
